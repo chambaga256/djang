@@ -135,6 +135,6 @@ EMAIL_HOST_PASSWORD ='dukqaqhsgukbmspj'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_TIMEOUT = 300  # in seconds
-DEFAULT_FROM_EMAIL = 'achambaga@uib.or.ug'
+DEFAULT_FROM_EMAIL = 'cbirungi@uib.or.ug'
 
 EMAIL_BACKEND ='django.core.mail.backends.smtp.EmailBackend'
